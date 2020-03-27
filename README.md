@@ -1,2 +1,0 @@
-# mapTestPoly
-Created with CodeSandbox
